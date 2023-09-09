@@ -1,0 +1,11 @@
+
+example/library
+example/temp
+example/packages
+example/creator.d.ts
+example/settings/
+example/local
+example/project.json
+*.meta
+*/creator.d.ts
+

@@ -1,0 +1,9 @@
+
+1. 配置横竖屏适配的脚本，
+
+MController，
+* 选中saveConfig后，将会遍历子节点，如果子节点有NodeConfig脚本组件，则会保存当前节点的相关属性配置，以json字符串的形式存储在NodeConfig的ui_config属性中，key为当前stateIndex；
+* 在切换stateIndex后，会遍历子节点，如果子节点中有NodeConfig脚本组件，则会获取NodeConfig中的ui_config属性，从中获取到当前stateIndex对应的属性map，然后赋值给当前子节点；
+
+NodeConfig，在MController在触发saveConfig后，会获取当前节点的所有相关属性，并存储在ui_config中；
+
