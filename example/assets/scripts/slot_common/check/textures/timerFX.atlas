@@ -1,0 +1,153 @@
+
+timerFX.jpg
+size: 960,809
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_particle1/fs_vfx_c_add_00
+  rotate: true
+  xy: 2, 166
+  size: 77, 478
+  orig: 97, 484
+  offset: 5, 3
+  index: -1
+fx_particle1/fs_vfx_c_add_01
+  rotate: true
+  xy: 482, 166
+  size: 77, 472
+  orig: 97, 484
+  offset: 3, 7
+  index: -1
+fx_particle1/fs_vfx_c_add_02
+  rotate: true
+  xy: 484, 543
+  size: 71, 472
+  orig: 97, 484
+  offset: 3, 7
+  index: -1
+fx_particle1/fs_vfx_c_add_03
+  rotate: true
+  xy: 2, 616
+  size: 69, 472
+  orig: 97, 484
+  offset: 4, 7
+  index: -1
+fx_particle1/fs_vfx_c_add_04
+  rotate: true
+  xy: 476, 616
+  size: 69, 480
+  orig: 97, 484
+  offset: 3, 3
+  index: -1
+fx_particle1/fs_vfx_c_add_05
+  rotate: true
+  xy: 476, 395
+  size: 73, 480
+  orig: 97, 484
+  offset: 4, 3
+  index: -1
+fx_particle1/fs_vfx_c_add_06
+  rotate: true
+  xy: 2, 472
+  size: 71, 474
+  orig: 97, 484
+  offset: 4, 5
+  index: -1
+fx_particle1/fs_vfx_c_add_07
+  rotate: true
+  xy: 2, 397
+  size: 73, 472
+  orig: 97, 484
+  offset: 4, 7
+  index: -1
+fx_particle1/fs_vfx_c_add_08
+  rotate: true
+  xy: 2, 320
+  size: 73, 474
+  orig: 97, 484
+  offset: 2, 6
+  index: -1
+fx_particle1/fs_vfx_c_add_09
+  rotate: true
+  xy: 2, 87
+  size: 77, 474
+  orig: 97, 484
+  offset: 4, 6
+  index: -1
+fx_particle1/fs_vfx_c_add_10
+  rotate: true
+  xy: 480, 2
+  size: 83, 474
+  orig: 97, 484
+  offset: 3, 7
+  index: -1
+fx_particle1/fs_vfx_c_add_11
+  rotate: true
+  xy: 478, 320
+  size: 73, 474
+  orig: 97, 484
+  offset: 3, 7
+  index: -1
+fx_particle1/fs_vfx_c_add_12
+  rotate: true
+  xy: 2, 6
+  size: 79, 476
+  orig: 97, 484
+  offset: 2, 5
+  index: -1
+fx_particle1/fs_vfx_c_add_13
+  rotate: true
+  xy: 2, 687
+  size: 67, 480
+  orig: 97, 484
+  offset: 4, 2
+  index: -1
+fx_particle1/fs_vfx_c_add_14
+  rotate: true
+  xy: 2, 545
+  size: 69, 480
+  orig: 97, 484
+  offset: 4, 2
+  index: -1
+fx_particle1/fs_vfx_c_add_15
+  rotate: true
+  xy: 478, 470
+  size: 71, 478
+  orig: 97, 484
+  offset: 4, 3
+  index: -1
+fx_particle1/fs_vfx_c_add_16
+  rotate: true
+  xy: 484, 687
+  size: 67, 472
+  orig: 97, 484
+  offset: 5, 9
+  index: -1
+fx_particle1/fs_vfx_c_add_17
+  rotate: true
+  xy: 2, 245
+  size: 73, 474
+  orig: 97, 484
+  offset: 4, 7
+  index: -1
+fx_particle1/fs_vfx_c_add_18
+  rotate: true
+  xy: 478, 87
+  size: 77, 478
+  orig: 97, 484
+  offset: 4, 3
+  index: -1
+fx_particle1/fs_vfx_c_add_19
+  rotate: true
+  xy: 478, 245
+  size: 73, 480
+  orig: 97, 484
+  offset: 5, 2
+  index: -1
+light
+  rotate: false
+  xy: 2, 756
+  size: 534, 51
+  orig: 589, 51
+  offset: 36, 0
+  index: -1

@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.Material",
+  "_name": "fluxay-texture",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "14b23792-6a46-446b-84f1-5ec22554e601"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "props": {
+        "u_time": 0,
+        "u_fluxayTexture": {
+          "__uuid__": "f3e86733-ca31-4090-bb53-8715c417ec6b"
+        }
+      },
+      "defines": {
+        "USE_TEXTURE": false,
+        "USE_ALPHA_TEST": false
+      }
+    }
+  }
+}

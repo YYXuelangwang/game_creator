@@ -1,0 +1,242 @@
+
+buyfreespins.png
+size: 1400,1383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buy_freespins_en
+  rotate: true
+  xy: 514, 32
+  size: 349, 210
+  orig: 349, 210
+  offset: 0, 0
+  index: -1
+light/bw_vfx_a_screen_01
+  rotate: false
+  xy: 2, 383
+  size: 400, 424
+  orig: 400, 424
+  offset: 0, 0
+  index: -1
+light/bw_vfx_c_screen_01
+  rotate: false
+  xy: 2, 809
+  size: 540, 572
+  orig: 540, 572
+  offset: 0, 0
+  index: -1
+light/bw_vfx_d_add
+  rotate: false
+  xy: 916, 545
+  size: 324, 324
+  orig: 324, 324
+  offset: 0, 0
+  index: -1
+lizi1/multi_vfx_d_add_01
+  rotate: false
+  xy: 726, 41
+  size: 325, 114
+  orig: 425, 250
+  offset: 68, 42
+  index: -1
+lizi1/multi_vfx_d_add_03
+  rotate: false
+  xy: 404, 383
+  size: 341, 98
+  orig: 425, 250
+  offset: 58, 65
+  index: -1
+lizi1/multi_vfx_d_add_04
+  rotate: true
+  xy: 1259, 366
+  size: 333, 100
+  orig: 425, 250
+  offset: 54, 65
+  index: -1
+lizi1/multi_vfx_d_add_05
+  rotate: true
+  xy: 1259, 701
+  size: 337, 100
+  orig: 425, 250
+  offset: 52, 65
+  index: -1
+lizi1/multi_vfx_d_add_06
+  rotate: true
+  xy: 1259, 1040
+  size: 341, 102
+  orig: 425, 250
+  offset: 50, 65
+  index: -1
+lizi1/multi_vfx_d_add_07
+  rotate: false
+  xy: 1053, 53
+  size: 345, 102
+  orig: 425, 250
+  offset: 47, 65
+  index: -1
+lizi1/multi_vfx_d_add_10
+  rotate: false
+  xy: 429, 3
+  size: 27, 52
+  orig: 425, 250
+  offset: 301, 87
+  index: -1
+lizi4/gfs_vfx_b_screen_00
+  rotate: true
+  xy: 2, 57
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_11
+  rotate: true
+  xy: 404, 483
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_12
+  rotate: true
+  xy: 747, 157
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_13
+  rotate: false
+  xy: 916, 871
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+lizi4/gfs_vfx_b_screen_14
+  rotate: false
+  xy: 544, 871
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1
+sz_frame
+  rotate: false
+  xy: 2, 2
+  size: 425, 53
+  orig: 425, 53
+  offset: 0, 0
+  index: -1
+
+buyfreespins2.png
+size: 1284,1351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buy_freespins_zh
+  rotate: false
+  xy: 909, 1128
+  size: 329, 221
+  orig: 329, 221
+  offset: 0, 0
+  index: -1
+lizi1/multi_vfx_d_add_02
+  rotate: false
+  xy: 283, 1255
+  size: 335, 94
+  orig: 425, 250
+  offset: 62, 66
+  index: -1
+lizi1/multi_vfx_d_add_08
+  rotate: false
+  xy: 620, 1249
+  size: 287, 100
+  orig: 425, 250
+  offset: 47, 64
+  index: -1
+lizi1/multi_vfx_d_add_09
+  rotate: false
+  xy: 2, 1275
+  size: 279, 74
+  orig: 425, 250
+  offset: 57, 64
+  index: -1
+lizi4/gfs_vfx_b_screen_01
+  rotate: true
+  xy: 2, 929
+  size: 324, 474
+  orig: 324, 510
+  offset: 0, 36
+  index: -1
+lizi4/gfs_vfx_b_screen_02
+  rotate: true
+  xy: 478, 802
+  size: 324, 468
+  orig: 324, 510
+  offset: 0, 30
+  index: -1
+lizi4/gfs_vfx_b_screen_03
+  rotate: false
+  xy: 948, 654
+  size: 324, 472
+  orig: 324, 510
+  offset: 0, 23
+  index: -1
+lizi4/gfs_vfx_b_screen_04
+  rotate: true
+  xy: 2, 603
+  size: 324, 474
+  orig: 324, 510
+  offset: 0, 12
+  index: -1
+lizi4/gfs_vfx_b_screen_05
+  rotate: true
+  xy: 478, 328
+  size: 324, 478
+  orig: 324, 510
+  offset: 0, 10
+  index: -1
+lizi4/gfs_vfx_b_screen_06
+  rotate: false
+  xy: 958, 166
+  size: 324, 486
+  orig: 324, 510
+  offset: 0, 7
+  index: -1
+lizi4/gfs_vfx_b_screen_07
+  rotate: false
+  xy: 2, 111
+  size: 324, 490
+  orig: 324, 510
+  offset: 0, 5
+  index: -1
+lizi4/gfs_vfx_b_screen_08
+  rotate: true
+  xy: 328, 2
+  size: 324, 500
+  orig: 324, 510
+  offset: 0, 1
+  index: -1
+
+buyfreespins3.png
+size: 980,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi4/gfs_vfx_b_screen_09
+  rotate: false
+  xy: 654, 8
+  size: 324, 504
+  orig: 324, 510
+  offset: 0, 1
+  index: -1
+lizi4/gfs_vfx_b_screen_10
+  rotate: false
+  xy: 328, 6
+  size: 324, 506
+  orig: 324, 510
+  offset: 0, 1
+  index: -1
+lizi4/gfs_vfx_b_screen_15
+  rotate: false
+  xy: 2, 2
+  size: 324, 510
+  orig: 324, 510
+  offset: 0, 0
+  index: -1

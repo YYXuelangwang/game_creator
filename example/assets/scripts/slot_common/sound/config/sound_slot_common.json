@@ -1,0 +1,16 @@
+{
+    "bg_Pop_Up": true,
+    "music_BGM": true,
+    "streamer": true,
+    "click_DH": true,
+    "click_Effect": true,
+    "click_JC": true,
+    "DH_Effect": true,
+    "coin_Rotate": true,
+    "over_Effect": true,
+    "coin_Add": true,
+    "Settle_Failed": true,
+    "Prize_Loop": true,
+    "Prize_Stop": true,
+    "num_Scroll": true
+}

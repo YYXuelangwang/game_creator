@@ -1,0 +1,34 @@
+
+badluky.png
+size: 971,855
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shineLight
+  rotate: false
+  xy: 158, 620
+  size: 640, 233
+  orig: 640, 233
+  offset: 0, 0
+  index: -1
+starLight
+  rotate: false
+  xy: 2, 699
+  size: 154, 154
+  orig: 198, 173
+  offset: 22, 9
+  index: -1
+text-badluck-cn
+  rotate: false
+  xy: 2, 342
+  size: 967, 276
+  orig: 986, 278
+  offset: 8, 1
+  index: -1
+text-badluck-en
+  rotate: false
+  xy: 2, 2
+  size: 913, 338
+  orig: 955, 341
+  offset: 20, 1
+  index: -1

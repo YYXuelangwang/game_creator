@@ -1,0 +1,174 @@
+
+coin.png
+size: 640,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold
+  rotate: false
+  xy: 2, 438
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lineFX/footballFX_00
+  rotate: true
+  xy: 554, 255
+  size: 149, 55
+  orig: 165, 90
+  offset: 7, 3
+  index: -1
+lineFX/footballFX_01
+  rotate: true
+  xy: 400, 11
+  size: 146, 59
+  orig: 165, 90
+  offset: 10, 4
+  index: -1
+lineFX/footballFX_02
+  rotate: true
+  xy: 564, 109
+  size: 144, 57
+  orig: 165, 90
+  offset: 12, 6
+  index: -1
+lineFX/footballFX_03
+  rotate: true
+  xy: 267, 52
+  size: 144, 69
+  orig: 165, 90
+  offset: 12, 4
+  index: -1
+lineFX/footballFX_04
+  rotate: false
+  xy: 403, 240
+  size: 144, 66
+  orig: 165, 90
+  offset: 12, 4
+  index: -1
+lineFX/footballFX_05
+  rotate: true
+  xy: 204, 46
+  size: 150, 61
+  orig: 165, 90
+  offset: 6, 4
+  index: -1
+lineFX/footballFX_06
+  rotate: true
+  xy: 338, 10
+  size: 147, 60
+  orig: 165, 90
+  offset: 5, 6
+  index: -1
+lineFX/footballFX_07
+  rotate: true
+  xy: 497, 96
+  size: 142, 65
+  orig: 165, 90
+  offset: 5, 8
+  index: -1
+lineFX/footballFX_08
+  rotate: false
+  xy: 461, 36
+  size: 145, 58
+  orig: 165, 90
+  offset: 5, 13
+  index: -1
+lineFX/footballFX_09
+  rotate: false
+  xy: 484, 406
+  size: 150, 57
+  orig: 165, 90
+  offset: 5, 13
+  index: -1
+lineFX/footballFX_10
+  rotate: true
+  xy: 344, 486
+  size: 152, 61
+  orig: 165, 90
+  offset: 5, 12
+  index: -1
+lineFX/footballFX_11
+  rotate: true
+  xy: 345, 223
+  size: 151, 56
+  orig: 165, 90
+  offset: 6, 12
+  index: -1
+lineFX/footballFX_12
+  rotate: false
+  xy: 345, 159
+  size: 150, 62
+  orig: 165, 90
+  offset: 7, 8
+  index: -1
+lineFX/footballFX_13
+  rotate: false
+  xy: 403, 308
+  size: 149, 66
+  orig: 165, 90
+  offset: 8, 6
+  index: -1
+lineFX/footballFX_14
+  rotate: false
+  xy: 484, 465
+  size: 146, 65
+  orig: 165, 90
+  offset: 11, 5
+  index: -1
+side
+  rotate: true
+  xy: 2, 2
+  size: 30, 200
+  orig: 30, 200
+  offset: 0, 0
+  index: -1
+silver
+  rotate: false
+  xy: 2, 236
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+spinFX/spinFX_00
+  rotate: true
+  xy: 204, 480
+  size: 158, 138
+  orig: 210, 149
+  offset: 26, 5
+  index: -1
+spinFX/spinFX_01
+  rotate: true
+  xy: 344, 376
+  size: 108, 138
+  orig: 210, 149
+  offset: 52, 5
+  index: -1
+spinFX/spinFX_02
+  rotate: false
+  xy: 204, 198
+  size: 139, 138
+  orig: 210, 149
+  offset: 34, 5
+  index: -1
+spinFX/spinFX_03
+  rotate: true
+  xy: 204, 338
+  size: 140, 138
+  orig: 210, 149
+  offset: 36, 5
+  index: -1
+spinFX/spinFX_04
+  rotate: true
+  xy: 407, 532
+  size: 106, 138
+  orig: 210, 149
+  offset: 51, 5
+  index: -1
+yellow
+  rotate: false
+  xy: 2, 34
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
