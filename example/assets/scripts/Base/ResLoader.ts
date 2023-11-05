@@ -19,7 +19,7 @@ export default class ResLoader extends cc.Component {
     private _resMap = new Map;
     private _usedId = 0;
 
-    public getInstance() {
+    public static getInstance() {
         if (!ResLoader._instance) {
             ResLoader._instance = new ResLoader();
         }
